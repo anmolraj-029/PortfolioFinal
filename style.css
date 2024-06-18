@@ -1,4 +1,4 @@
-* {
+ * {
     margin: 0;
     padding: 0;
 }
@@ -345,9 +345,10 @@ nav .fas{
       .copyright{
         font-size: 14px;
       } 
-} */
-#msg{
+} 
+ #msg{
     color:#61b752;
     margin-top:-20px;
     display:block;
-}
+} 
+ 
